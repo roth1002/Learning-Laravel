@@ -3,6 +3,6 @@ Laravel5
 
 依照
 
-https://github.com/roth1002/Learning-Laravel.git
+https://gist.github.com/jaceju/c415c1b42daf4c589f2a
 
-學習Laravel5的Web起手勢
+學習Laravel5的開發Web測試的起手式
